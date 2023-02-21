@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.plus {
+  color: steelblue;
+}
+
+.folder {
+  color: steelblue;
+  font-size: 2rem;
+}
+
+.foldername {
+  margin: auto auto;
+  color: steelblue;
+  font-size: 1.5em;
+}
